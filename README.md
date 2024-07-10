@@ -8,3 +8,5 @@ Then you need to generate an api key for each (gemini api key, and gmail api key
 In your google project generate you oauth2 keys and download the json file and include this in the oauth2.keys.json file
 
 More instructions with where to place your api and oauth keys are available within the code.
+
+Keep in mind, depending on what country you are in, you may need to set up a billing account for your google project in order to gain access to gemini via the api (in certain countries this is true even for the free tier).
